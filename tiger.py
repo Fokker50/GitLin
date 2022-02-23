@@ -9,3 +9,4 @@ for i in a:
 print("I was doing this for two days")
 print("Editing third time")
 print("form new branch")
+print("Want to merge branches")
